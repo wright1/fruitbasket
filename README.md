@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Fruitbasket
 
-In the project directory, you can run:
+A game created using create-react-app.
 
 ### `npm start`
 
